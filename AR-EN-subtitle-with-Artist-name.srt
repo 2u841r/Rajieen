@@ -834,7 +834,7 @@ With us is the Almighty
 (Our only refuge is the Almighty)
 
 162
-00:07:06,459 --> 00:07:12,875
+00:07:00,000 --> 00:07:12,875
 [Outro]
 لو رحل صوتي ما بترحل حناجركم
 Should I lose my voice, yours will remain...
